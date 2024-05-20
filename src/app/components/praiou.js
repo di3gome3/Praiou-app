@@ -411,7 +411,7 @@ export default function AppPraiou() {
               <TextField
                 fullWidth
                 variant="outlined"
-                placeholder="Pesquisar cidade no Brasil"
+                placeholder="Pesquisar cidade litóranea no Brasil"
                 value={city}
                 onChange={(e) => setCity(e.target.value)}
                 sx={{
