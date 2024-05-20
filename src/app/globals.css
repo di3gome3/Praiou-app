@@ -10,6 +10,4 @@ body {
   background-size: cover;
   background-attachment: fixed;
   margin: 0; /* Certifique-se de remover qualquer margem padrão */
-  height: 100vh; /* Garantir que o body cubra a altura total da tela */
-  overflow: auto;
 }
